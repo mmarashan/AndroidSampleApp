@@ -78,4 +78,5 @@ dependencies {
     implementation(project(Modules.Feature.cryptoAssetsList))
     implementation(project(Modules.Core.messariApi))
     implementation(project(Modules.Core.featureApi))
+    implementation(project(Modules.Core.uiKit))
 }

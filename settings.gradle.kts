@@ -11,6 +11,7 @@ include(
     ":core:common",
     ":core:feature-api",
     ":core:messari-api",
+    ":core:ui-kit",
 )
 
 /* Feature */
