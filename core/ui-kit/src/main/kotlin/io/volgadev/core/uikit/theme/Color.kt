@@ -25,6 +25,7 @@ object AppColors {
 
     val whiteText = Color(0xFFFFFFFF)
     val blackText = Color(0xFF000000)
+    val grayText = Color(0xFF6C6D78)
 
     val primaryOrange = Color(0xFFFF7800)
 
@@ -41,6 +42,7 @@ fun AppColorsPreview() {
         ColorItem(text = "grayBackground", color = AppColors.grayBackground)
         ColorItem(text = "whiteText", color = AppColors.whiteText)
         ColorItem(text = "blackText", color = AppColors.blackText)
+        ColorItem(text = "grayText", color = AppColors.grayText)
         ColorItem(text = "primaryOrange", color = AppColors.primaryOrange)
     }
 }
